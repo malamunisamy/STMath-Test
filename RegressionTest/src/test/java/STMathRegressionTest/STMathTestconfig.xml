@@ -1,0 +1,6 @@
+<xml>
+ <SUT>web.stmath.com</SUT>
+ <Teacher ID=minmmunisamy1@mindresearch.net, password=batman />
+ <Student ID=minmmunisamy1@mindresearch.net, password=batman />
+ <ResourcesBasePath>C:\work\TestAutomationResources</ResourcesBasePath>
+</xml>
